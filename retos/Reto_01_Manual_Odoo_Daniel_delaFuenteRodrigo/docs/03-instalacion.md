@@ -1,17 +1,32 @@
 # 03 — Instalación y prueba (15 días) / Alta e instalación de apps
 
-> Estructura orientativa
 
 ## Requisitos previos
 - Navegador actualizado.
 - Cuenta de correo para alta.
 
 ## Pasos
-1. **Crear base de datos de prueba (15 días)** desde odoo.com (activar por email).
-   - ![Crear BD](../assets/img/03-instalacion/paso01_crear-bd.png "Crear base de datos")
-2. **Seleccionar apps iniciales** (máximo 10 en la prueba): CRM, Ventas, Facturación, Contabilidad, Proyectos, Documentos, Calendario, etc.
-   - ![Seleccionar apps](../assets/img/03-instalacion/paso02_seleccionar-apps.png "Seleccionar apps")
-3. **Instalar/Desinstalar apps** desde *Aplicaciones* (¡cuidado con los datos al desinstalar!).
+1. **Crear base de datos de prueba (15 días)**
 
-## Resultado esperado
-- Acceso al panel principal con las apps instaladas.
+Para crear nuestra base de datos, en este proyecto vamos a elegir la opcion estandar(La del medio). Para hacerlo elegiremos la opcion de prueba gratuita, la cual nos dara acceso a la plataforma durante 15 dias.
+
+![Crear BD](../assets/img/03-instalacion/paso01_iniciarPrueba.png)
+
+2. **Seleccionar apps iniciales**
+
+Despues de entrar a la prueba gratuita, nos pedira elegir las aplicaciones que querremos utilizar. La prueba gratuita nos da acceso a un maximo de 10 aplicaciones diferentes, algunas de las que vamos a usar para este proyecto son la de Proyecto y la de Documentos.
+
+![Seleccionar apps](../assets/img/03-instalacion/paso02_seleccionAplicaciones.png)
+
+Una vez seleccionadas las aplicaciones, nos pedira agregar nuestros datos, como pueden ser el correo y el nombre de la empresa.
+
+![Añadir datos personales](../assets/img/03-instalacion/paso02_añadirDatos.png)
+
+3. **Instalar/Desinstalar apps**
+
+Una vez terminado el proceso de registro, se nos abrirá nuestra pagina de inicio, simplemente saldremos de la aplicacion en la esquina superior izquierda y llegaremos a nuestro panel de aplicaciones. Tendremos un mensaje en rojo diciendo que tenemos que activar la cuenta, por lo que le pulsaremos y nos iremos a gmail para terminar el proceso.
+
+Para administrar las aplicaciones, en el panel veremos una aplicacion llamada "Aplicaciones". Desde ella podremos buscar aplicaciones, instalar aplicaciones nuevas(mientras tengas menos de 10) y desinstalar las que ya tenemos instaladas. Un punto importante a tener en cuenta sobre la desinstalacion es que perderemos todos los datos por lo que si queremos guardar esos datos es importante hacer algun tipo de copia de seguridad antes.
+![Panel de aplicaciones](../assets/img/03-instalacion/paso03_administrarAplicacines.png)
+
+![Instalar/Desinstalar aplicaciones](../assets/img/03-instalacion/paso03_instalarDesinstalarAplicaciones.png)
