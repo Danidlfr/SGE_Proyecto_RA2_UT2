@@ -27,6 +27,7 @@ Una vez seleccionadas las aplicaciones, nos pedira agregar nuestros datos, como 
 Una vez terminado el proceso de registro, se nos abrirá nuestra pagina de inicio, simplemente saldremos de la aplicacion en la esquina superior izquierda y llegaremos a nuestro panel de aplicaciones. Tendremos un mensaje en rojo diciendo que tenemos que activar la cuenta, por lo que le pulsaremos y nos iremos a gmail para terminar el proceso.
 
 Para administrar las aplicaciones, en el panel veremos una aplicacion llamada "Aplicaciones". Desde ella podremos buscar aplicaciones, instalar aplicaciones nuevas(mientras tengas menos de 10) y desinstalar las que ya tenemos instaladas. Un punto importante a tener en cuenta sobre la desinstalacion es que perderemos todos los datos por lo que si queremos guardar esos datos es importante hacer algun tipo de copia de seguridad antes.
+
 ![Panel de aplicaciones](../assets/img/03-instalacion/paso03_administrarAplicacines.png)
 
 ![Instalar/Desinstalar aplicaciones](../assets/img/03-instalacion/paso03_instalarDesinstalarAplicaciones.png)

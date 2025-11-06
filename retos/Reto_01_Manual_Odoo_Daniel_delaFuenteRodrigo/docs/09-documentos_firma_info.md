@@ -11,8 +11,6 @@ Nos permite meterle documentacion tanto a todos los proyectos que tenemos creado
 ![Ajustes de los documentos](../assets/img/09-documentos_firma_info/paso01_ajustesDocumentos.png)
 ![Modificar hojas](../assets/img/09-documentos_firma_info/paso01_modificarHojas.png)
 
-
-
 A los PDFs y documentos podemos asignarles etiquetas o usuarios ademas de que tipo de documento es o como vamos a utilizarlo, o incluso programar actividades atraves de dicho documento. Ademas, dentro de la seccion de acciones podemos desde renombrar el archivo hasta dividir o fusionar un PDF.
 
 ![Etiquetas](../assets/img/09-documentos_firma_info/paso01_etiquetas.png)
