@@ -1,6 +1,6 @@
 # 02 — Introducción
 
-> Estructura orientativa
+
 
 > **Objetivo:** Entender qué es Odoo y qué se cubrirá en el manual.
 
