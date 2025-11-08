@@ -1,17 +1,17 @@
 # 02 — Introducción
 
-[Odoo como suite modular](#odoo-como-suite-modular)
-[Community vs Enterprise](#community-vs-enterprise)
-[Ventajas](#ventajas)
-[Consideraciones](#consideraciones)
+1. [Odoo como suite modular](#odoo-como-suite-modular)
+2. [Community vs Enterprise](#community-vs-enterprise)
+3. [Ventajas](#ventajas)
+4. [Consideraciones](#consideraciones)
 
 ### Odoo como suite modular
 
-Odoo es una suit de soluciones empresariales de codigo abierto, cuenta con aplicaciones muy versatiles. Desde CRMs, ERPs, contabilidad, gestion de inventario, marketing, y una gran variedad más. Es modular y personalizable, por lo que si solo vamos a necesitar un modulo en concreto, podemos usar solo ese, o conectarlo junto a algun otro modulo ya que pueden tener una interaccion muy fluida entre todos los modulos.
+Odoo es una suit de soluciones empresariales de código abierto, cuenta con aplicaciones muy versátiles. Desde CRMs, ERPs, contabilidad, gestión de inventario, marketing, y una gran variedad más. Es modular y personalizable, por lo que si solo vamos a necesitar un modulo en concreto, podemos usar solo ese, o conectarlo junto a algún otro modulo ya que pueden tener una interacción muy fluida entre todos los módulos.
 
 ### Community vs Enterprise
 
-Odoo cuenta con una parte gratuita(la version Community) de codigo abierto y otra más de empresa(la version Enterprise).
+Odoo cuenta con una parte gratuita(la versión Community) de código abierto y otra más de empresa(la versión Enterprise).
 
 
 |    Funcion    |        Community        |             Enterprise             |
@@ -21,18 +21,18 @@ Odoo cuenta con una parte gratuita(la version Community) de codigo abierto y otr
 |   Interfaz   |          Simple          |  Mejorada visual y funcionalmente  |
 |    Soporte    |        Comunidad        |     Soporte oficial y partners     |
 
-Ademas, a la hora de instalar nuevas versiones, con el Community tendremos que hacerlo manualmente mientras que con Enterprise sera una migración asisitida con actualizaciones fluidas.
-La personalizacion tecnica en el Community requerira conocimientos mas avanzados, y en el Enterprise tendremos acceso a APIs y herramientas de desarrollo.
-La version Enterprise tambien nos da acceso a Odoo Studio, que nos permitira crear nuestras propias aplicaciones sin necesidad de saber programar.
+Además, a la hora de instalar nuevas versiones, con el Community tendremos que hacerlo manualmente mientras que con Enterprise será una migración asistida con actualizaciones fluidas.
+La personalización técnica en el Community requerirá conocimientos mas avanzados, y en el Enterprise tendremos acceso a APIs y herramientas de desarrollo.
+La versión Enterprise también nos da acceso a Odoo Studio, que nos permitirá crear nuestras propias aplicaciones sin necesidad de saber programar.
 
 ### Ventajas
 
-- Precios: Aparte de la version gratuita, la Enterprise tiene un precio muy accesible.
-- Flexibilidad y Modularidad: Al trabajar por modulos es muy facil de adaptar segun tus necesidades, ya que puedes activar al principio unos modulos, y activar otros cuadno los vayas necesitando.
-- Personalizacion: Al ser de codigo abierto podemos personalizarlo practicamente al maximo, no solo podemos usarlos modulos integrados de por si en Odoo, sino que tambien podriamos programar nuestros propios modulos.
-- Facilidad de uso e integracion: Tiene una gran comunidad, aparte de contar con el soporte tecnico incluido en la version Enterprise.
+- Precios: Aparte de la versión gratuita, la Enterprise tiene un precio muy accesible.
+- Flexibilidad y Modularidad: Al trabajar por módulos es muy fácil de adaptar según tus necesidades, ya que puedes activar al principio unos módulos, y activar otros cuándo los vayas necesitando.
+- Personalización: Al ser de código abierto podemos personalizarlo prácticamente al máximo, no solo podemos usarlos módulos integrados de por si en Odoo, sino que también podríamos programar nuestros propios módulos.
+- Facilidad de uso e integración: Tiene una gran comunidad, aparte de contar con el soporte técnico incluido en la versión Enterprise.
 
 ### Consideraciones
 
 - Rendimiento: El rendimiento depende mucho de donde tengamos el sitio. Hay que tener en cuenta que cuantos más datos manejemos, más recursos necesitaremos.
-- Modulos del Community: Algunos de los modulos que podremos encontrar en la version Community pueden no ser compatibles con la version que tenemos o haya algun tipo de compatibilidad. 
+- Módulos del Community: Algunos de los módulos que podremos encontrar en la versión Community pueden no ser compatibles con la versión que tenemos o haya algún tipo de compatibilidad. 
