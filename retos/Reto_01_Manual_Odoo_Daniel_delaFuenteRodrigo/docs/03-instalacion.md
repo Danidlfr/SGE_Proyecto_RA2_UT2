@@ -5,7 +5,7 @@
 - Navegador actualizado.
 - Cuenta de correo para alta.
 
-## Pasos
+### Pasos
 1. **Crear base de datos de prueba (15 días)**
 
 Para crear nuestra base de datos, en este proyecto vamos a elegir la opcion estandar(La del medio). Para hacerlo elegiremos la opcion de prueba gratuita, la cual nos dara acceso a la plataforma durante 15 dias.

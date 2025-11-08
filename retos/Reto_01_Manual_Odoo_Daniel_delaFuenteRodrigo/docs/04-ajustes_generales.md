@@ -1,5 +1,10 @@
 # 04 — Ajustes generales
 
+[Notificaciones](#notificaciones)
+[Perfil](#perfil)
+[Usuarios y compañias](#usuarios-y-compañías)
+[Idiomas y diseño de documentos (plantillas de factura)](#idiomas-y-diseño-de-documentos-plantillas-de-factura)
+[Emails de resumen](#emails-de-resumen)
 
 ### Notificaciones
 
@@ -15,7 +20,7 @@ Podremos modificar cosas como el tema(modo claro o modo oscuro), cambiar como qu
 
 ![Perfil](../assets/img/04-ajustes_generales/paso02_perfil.png)
 
-### Usuarios y compañías**: roles por módulo; en Enterprise se paga por usuario.
+### Usuarios y compañías.
 
 En los ajustes generales podemos crear multiples usuarios y compañias(teniendo diferentes bases de datos), pudiendo asignarles los modulos correspondientes. Tambien podemos ajustar los datos de nuestra propia empresa como puede ser el logo, la direccion o el CIF. 
 
@@ -43,4 +48,3 @@ Esta opcion nos permite recibir periodicamente lo que ha ocurrido dentro de nues
 
 ![Ajustes](../assets/img/04-ajustes_generales/paso05_ajustesCorreosResumen.png)
 ![Configuracion](../assets/img/04-ajustes_generales/paso05_configuracionCorreosResumen.png)
-

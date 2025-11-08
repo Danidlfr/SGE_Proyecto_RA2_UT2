@@ -1,5 +1,9 @@
 # 07 — Calendario y Citas
 
+[Calendario](#calendario)
+[Integración con Google Calendar (API OAuth GCP)](#integración-con-google-calendar-api-oauth-gcp)
+[Eventos y Odoo Meet](#eventos-y-odoo-meet)
+[Módulo Citas](#módulo-citas)
 
 ### Calendario.
 
@@ -48,7 +52,7 @@ Tambien podremos editar los eventos para darle mas datos y hacerlo mas completo,
 
 ![Ajustes de eventos](../assets/img/07-calendario_y_citas/paso03_odooEventosAjustes.png)
 
-### Módulo Citas (Enterprise): enlaces públicos, buffers, preguntas previas.
+### Módulo Citas.
 
 El modulo de citas es muy interesante si ofrecemos servicios de consultoria, servicios médicos, reservas de equipo, etc, en los que queremos que una persona se apunte a una hora concreta en la que interactuar con el. 
 

@@ -1,7 +1,10 @@
 # 09 — Documentos, Firma e Información (Knowledge)
 
+[Documentos](#documentos)
+[Firma electrónica](#firma-electrónica)
+[Información (Knowledge)](#información-knowledge)
 
-### Documentos
+### Documentos.
 
 El modulo de documentos nos permite tener una empresa libre de papeles, permitiendonos meter todo tipo de documentos como pueden ser docs, PDFs o tablas de Exel.
 
@@ -17,7 +20,7 @@ A los PDFs y documentos podemos asignarles etiquetas o usuarios ademas de que ti
 ![Acciones PDFs](../assets/img/09-documentos_firma_info/paso01_dividirPDF1.png)
 ![Dividir PDFs](../assets/img/09-documentos_firma_info/paso01_dividirPDF2.png)
 
-### Firma electrónica  : campos (firma/nombre/fecha), envío y registro.
+### Firma electrónica.
 
 Este modulo nos deja un ejemplo para poder comprender como funciona. Nos mostrara un ejemplo de un contrato, en el que podremos arrastrar las cajas de donde querriamos que estuviesen los datos a insertar, siendo en este caso la firma, el nombre y la fecha, aunque podriamos meter más datos como textos extra o correos electronicos.
 
@@ -33,7 +36,7 @@ Tambien podemos darle a "Firmar ahora" y solo tendremos que darle click en los e
 ![Firmar](../assets/img/09-documentos_firma_info/paso02_firmar.png)
 ![Registros de la firma electronica](../assets/img/09-documentos_firma_info/paso02_registroFirmaElectronica.png)
 
-### Información (Knowledge)  : wiki tipo Notion, permisos y publicación.
+### Información (Knowledge).
 
 Este modulo nos permite aglutinar a nivel externo como interno la informacion de la empresa. Nada mas entrar, se vera una inspiracion en aplicaciones como Notion. Funciona por espacios de trabajo, el cual al crearlo lo primero que deberemos hacer sera nombrarlo. En los tres puntos de la derecha podremos desde añadir iconos hasta insertar una portada que podremos ajustar o cambiarla. Tambien podriamos seguir anidando mas espacios de trabajo dentro de otros espacios. Con la barra del slash(/) podremos ingresar una gran cantidad de elementos como pueden ser titulos o indices.
 

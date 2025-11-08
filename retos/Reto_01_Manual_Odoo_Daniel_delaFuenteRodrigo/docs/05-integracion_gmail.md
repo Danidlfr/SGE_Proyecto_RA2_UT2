@@ -57,4 +57,3 @@ Para comprobar que todo esto ha funcionado bien, podemos irnos a cualquier corre
 ![Guardar contacto](../assets/img/05-integracion_gmail/paso04_guardarContacto.png)
 ![Oportunidades y tareas](../assets/img/05-integracion_gmail/paso04_oportunidades-tareas.png)
 ![Crear oportunidad](../assets/img/05-integracion_gmail/paso04_crearOportunidad.png)
-

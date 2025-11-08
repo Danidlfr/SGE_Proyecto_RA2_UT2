@@ -1,5 +1,8 @@
 # 06 — Contactos
 
+[Contactos](#contactos)
+[Etiquetas para segmentar](#etiquetas-para-segmentar)
+[Importación CSV](#importación-csv)
 
 ### Contactos
 
@@ -28,7 +31,7 @@ Una buena forma de encontrar un contacto en concreto es filtrando por un monton 
 ![Etiquetas](../assets/img/06-contactos/paso02_busquedaEtiquetas.png)
 ![Filtrado por etiquetas](../assets/img/06-contactos/paso02_verEtiquetasFiltro.png)
 
-### Importación CSV (ver `common/ejemplo_csv/`).
+### Importación CSV.
 
 Para importar contactos pulsaremos en el engranaje de ajustes y le daremos a importar registraos. Alli dentro podremos tanto subir directamente la plantilla de importancion, como subir directamente un cliente ya creado. Los contactos tienen que tener sus datos separados por comas para que lo reconozca Odoo
 
