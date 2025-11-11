@@ -4,6 +4,6 @@
 2. Verifica el estado del servicio (**Servicios** de Windows).
 3. (Opcional) Revisa logs si no arranca correctamente.
 
-![Servicio](../assets/img/07-ejecucion_servicio/paso01_servicio-odoo.png "Servicio Odoo en Windows")
+![Ejecucion del servicio de Odoo](../assets/img/07-ejecucion_servicio/paso01_comprobarServicioOdoo.png)
 
 > Resultado esperado: Odoo en ejecución local.

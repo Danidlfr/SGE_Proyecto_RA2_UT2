@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/00-portada.md",
+                "file": "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00-portada"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/00-portada.md",
+                "file": "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/delaFuente_Rodrigo_Daniel_SGExx_Tarea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00-portada"
+              "title": "Backlinks for delaFuente_Rodrigo_Daniel_SGExx_Tarea"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/00-portada.md",
+                "file": "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/delaFuente_Rodrigo_Daniel_SGExx_Tarea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 00-portada"
+              "title": "Outgoing links from delaFuente_Rodrigo_Daniel_SGExx_Tarea"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/00-portada.md",
+                "file": "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/delaFuente_Rodrigo_Daniel_SGExx_Tarea.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00-portada"
+              "title": "Outline of delaFuente_Rodrigo_Daniel_SGExx_Tarea"
             }
           }
         ]
@@ -171,18 +171,41 @@
   },
   "active": "4b581c19b2868fd9",
   "lastOpenFiles": [
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/01-indice.md",
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/00-portada.md",
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/11-tips_y_checklist.md",
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/99-referencias.md",
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/10-ediciones_y_costes.md",
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/09-documentos_firma_info.md",
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/08-proyectos.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/delaFuente_Rodrigo_Daniel_SGE02_Tarea.pdf",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/delaFuente_Rodrigo_Daniel_SGE02_Tarea (2).pdf",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/ilovepdf_merged.pdf",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/README.pdf",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/01-indice.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/Untitled_merged.pdf.crdownload",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/00-portada.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/Untitled.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/99-bibliografia.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/11-checklist.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/10-troubleshooting.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/09-verificacion.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/08-creacion_bd_prueba.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/07-ejecucion_servicio.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/06-configuracion_inicial.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/05-instalacion_odoo.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/04-postgresql_windows.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/03-descarga_instalador.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/docs/02-requisitos_previos.md",
+    "retos/Reto_02_Instalacion_Odoo_Windows_Daniel_delaFuenteRodrigo/rubric/R02_Instalacion_Odoo_Windows_rubrica.md",
     "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/07-calendario_y_citas.md",
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/06-contactos.md",
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/05-integracion_gmail.md",
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/04-ajustes_generales.md",
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/03-instalacion.md",
-    "retos/Reto_01_Manual_Odoo_Daniel_delaFuenteRodrigo/docs/02-introduccion.md"
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/assets/img/10-verificacion",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/assets/img/09-creacion_bd_prueba",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/assets/img/08-servicio_systemd",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/assets/img/05-dependencias",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/assets/img/04-postgresql_linux",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/assets/img/03-preparacion_sistema",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/rubric/R03_Instalacion_Odoo_Linux_rubrica.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/docs/99-bibliografia.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/docs/12-checklist.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/docs/11-troubleshooting.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/docs/10-verificacion.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/docs/09-creacion_bd_prueba.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/docs/08-servicio_systemd.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/docs/07-configuracion_odoo.md",
+    "retos/Reto_03_Instalacion_Odoo_Linux_Daniel_delaFuenteRodrigo/docs/06-instalacion_odoo.md"
   ]
 }
