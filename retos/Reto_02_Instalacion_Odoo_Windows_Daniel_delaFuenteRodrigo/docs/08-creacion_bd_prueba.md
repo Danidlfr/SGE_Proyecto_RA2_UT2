@@ -5,6 +5,8 @@
 3. Elige módulos iniciales si procede.
 
 ![Crear BD](../assets/img/08-creacion_bd_prueba/paso01_insertarDatosPersonales.png)
+
 ![Elegir modulo](../assets/img/08-creacion_bd_prueba/paso01_elegirModulos.png)
 
 > Resultado esperado: BD de prueba creada y primer acceso.
+ 
