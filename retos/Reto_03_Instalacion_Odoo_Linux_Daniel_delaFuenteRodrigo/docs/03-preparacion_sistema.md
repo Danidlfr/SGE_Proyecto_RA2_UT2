@@ -2,9 +2,10 @@
 
 1. Actualiza índices y paquetes:
    ```bash
-   sudo apt update && sudo apt -y upgrade
+   sudo apt update && sudo apt upgrade
    ```
-   ![Update/Upgrade](../assets/img/03-preparacion_sistema/paso01_update-upgrade.png "Update/Upgrade")
+   ![Update](../assets/img/03-preparacion_sistema/paso01_update.png)
+   ![Upgrade](../assets/img/03-preparacion_sistema/paso01_upgrade.png)
 
 2. Configura zona horaria e idioma si procede.
 
